@@ -34,9 +34,11 @@ The dataset is sourced from the Portland Bureau of Emergency Communications (BOE
 
 ### Key Findings
 
-- Health-related 911 calls follow consistent daily patterns, with lowest volume in early morning hours and peaks in the late afternoon and evening.
+- Health-related 911 calls follow consistent daily patterns, with lowest volume in early morning hours and peaks in the late afternoon and evening. The temporal distribution of calls is highly similar between weekdays and weekends. While total call volume is slightly lower on weekends, the overall hourly shape remains consistent, suggesting stable underlying demand rather than workday-specific effects.
   
   <img width="900" height="391" alt="Screenshot 2026-01-15 at 6 13 03 PM" src="https://github.com/user-attachments/assets/36b10216-36de-4f51-b4ac-a6d9dbd6131f" />
+  <img width="870" height="398" alt="Screenshot 2026-01-15 at 6 13 12 PM" src="https://github.com/user-attachments/assets/1900fee4-f8af-4616-b578-ca2d1c299cbc" />
+
 
 - Spatial clusters are concentrated in central and western parts of Portland, indicating geographic variation in acute healthcare demand.
   
