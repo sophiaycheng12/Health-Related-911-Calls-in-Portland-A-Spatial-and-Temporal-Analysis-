@@ -53,6 +53,6 @@ The dataset is sourced from the Portland Bureau of Emergency Communications (BOE
   <img width="731" height="397" alt="Screenshot 2026-01-15 at 7 50 33 PM" src="https://github.com/user-attachments/assets/9a2b9794-f280-4e1d-b5d1-c7a61d649dc6" />
 
 
-Notes
+### Notes
 
 This project emphasizes decision-relevant analysis under real-world data constraints. Findings should be interpreted in the context of emergency dispatch workflows and data limitations, particularly for call types with incomplete geographic information.
