@@ -32,7 +32,7 @@ The dataset is sourced from the Portland Bureau of Emergency Communications (BOE
 
 - Used summary statistics (medians) and visualizations (line plots, boxplots, and density maps) to compare patterns across groups.
 
-Key Findings
+### Key Findings
 
 - Health-related 911 calls follow consistent daily patterns, with lowest volume in early morning hours and peaks in the late afternoon and evening.
   
