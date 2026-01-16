@@ -2,15 +2,15 @@
 
 Health-Related 911 Calls in Portland
 Spatial, Temporal, and Timeliness Analysis (2025)
-Project Overview
+### Project Overview
 
 This project analyzes health-related 911 calls in Portland using public emergency dispatch data. The goal is to understand when and where health-related emergencies occur and how emergency response timeliness varies by call type and priority level. This analysis focuses on descriptive patterns that reflect real-world emergency demand and system behavior.
 
-Data Source
+### Data Source
 
 The dataset is sourced from the Portland Bureau of Emergency Communications (BOEC) Open Data Portal and contains detailed information on 911 dispatched calls in 2025, including call type, priority level, response time components, and geographic indicators.
 
-Key Questions
+### Key Questions
 
 - When do health-related 911 calls most frequently occur, and how do patterns differ between weekdays and weekends?
 
@@ -20,7 +20,7 @@ Key Questions
 
 - How do queue, travel, and total response times vary by priority level?
 
-Methods
+### Methods
 
 - Filtered calls using the IsHealthRelated classification to focus on health-related incidents.
 
